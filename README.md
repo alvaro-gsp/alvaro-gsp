@@ -50,10 +50,9 @@ Early adopter of **AI-accelerated engineering**: I designed and deployed a respo
 
 ### AI & LLM Integration
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=anthropic" alt="Claude" width="48" /></a>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
