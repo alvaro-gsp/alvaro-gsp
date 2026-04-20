@@ -10,38 +10,50 @@ Early adopter of **AI-accelerated engineering**: I designed and deployed a respo
 
 ### Cloud Platforms
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" /></a>
+</p>
 
 ### Infrastructure as Code & Automation
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" width="48" /></a>
+</p>
 
 ### Containers & Orchestration
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" /></a>
+</p>
 
 ### CI/CD
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" /></a>
+</p>
 
 ### Languages & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" /></a>
+</p>
 
 ### AI & LLM Integration
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=anthropic" alt="Claude" width="48" /></a>
+</p>
 
 ---
 
